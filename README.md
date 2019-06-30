@@ -1,11 +1,22 @@
 # It all starts with a blinking led...
-Blinking led implementations for different platforms for [www.blinkingled.xyz](http://www.blinkingled.xyz)
+Blinking led implementations/tutorials/code for different platforms.
 
-Feel free to pull request a new implementation. Just add a new device and add it to platforms.html following the structure.
+[platforms.html](platform.html) shows up in [www.blinkingled.xyz](http://www.blinkingled.xyz)
 
-This is an example on how to add a new implementation:
+Feel free to pull request a new implementation.
 
-Say you've got a blinking-led program for a PIC18F452A and you want to add it:
+There are two ways you can contribute:
+
+1. Add a link to an external tutorial to README.md on target platform: See [PIC16F628A example](microcontrollers/microchip/parts/pic18f628a)
+2. Add code or tutorial in this repo for a blinking led implementation.
+
+Note: one device may have external links to tutorials and also code or tutorials on this repo. See [PIC16F628A example](microcontrollers/microchip/parts/pic18f628a)
+
+**if a link does not exist in platflorms.html Please add the link to this github device path to platforms.html**
+
+This is an example on how to add a tutorial to this github:  
+
+Say you've got a blinking-led program/tutorial for a PIC18F452A and you want to add it to this repo (Second way you can contribute (2.)):  
 
 - Fork this repo by pressing the button "Fork" on the upper right corner.
 - Use the following commands on a terminal and replace your\_user\_name with your github username:
