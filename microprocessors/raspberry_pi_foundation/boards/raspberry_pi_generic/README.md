@@ -1,0 +1,2 @@
+External Tutorial 1: Model A, A+, B, B+ and Pi2 [https://thepihut.com/blogs/raspberry-pi-tutorials/27968772-turning-on-an-led-with-your-raspberry-pis-gpio-pins](https://thepihut.com/blogs/raspberry-pi-tutorials/27968772-turning-on-an-led-with-your-raspberry-pis-gpio-pins)  
+External Tutorial 2: instructables uisng python [https://www.instructables.com/id/Blinking-LED-with-Raspberry-Pi-1/](https://www.instructables.com/id/Blinking-LED-with-Raspberry-Pi-1/)

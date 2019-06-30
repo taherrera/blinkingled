@@ -1,0 +1,1 @@
+External Tutorial 1: Jessie OS using python [https://circuitdigest.com/microcontroller-projects/raspberry-pi-led-blinking](https://circuitdigest.com/microcontroller-projects/raspberry-pi-led-blinking)  
