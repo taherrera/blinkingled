@@ -10,7 +10,7 @@ Say you've got a blinking-led program for a PIC18F452A and you want to add it:
 - Fork this repo by pressing the button "Fork" on the upper right corner.
 - Use the following commands on a terminal and replace your\_user\_name with your github username:
 ```
-git clone https://github.com/your\_user\_name/blinkingled
+git clone https://github.com/your_user_name/blinkingled
 cd blinkingled
 git branch pr/pic18f452a
 git checkout pr/pic18f452a
