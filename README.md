@@ -1,7 +1,7 @@
 # It all starts with a blinking led...
 Blinking led implementations/tutorials/code for different platforms.
 
-[platforms.html](platform.html) shows up in [www.blinkingled.xyz](http://www.blinkingled.xyz)
+[platforms.html](platforms.html) shows up in [www.blinkingled.xyz](http://www.blinkingled.xyz)
 
 Feel free to pull request a new implementation.
 
