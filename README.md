@@ -17,7 +17,7 @@ git checkout pr/pic18f452a
 ```
 - Add blinking\_led.c to microcontrollers/microchip/pic16f628a/blinking\_led.c and add to platforms.html the line that links to your work according to the hierarchy: 
 `<li> <a href=href=www.github.com/taherrera/blinkingled/tree/master/microprocessors/microchip/pic16f628a>PIC18F628A</a>`
-
+Optional: add README.md, how to, images, schematics, or whatever you think can be helpfull.
 - Use the following commands on a terminal
 ```
 git add microcontrollers/microchip/pic16f628a/blinking\_led.c
