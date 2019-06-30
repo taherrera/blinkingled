@@ -36,7 +36,7 @@ git add platforms.html
 git commit -m "Added implementation for the PIC18F628A"
 git push --set-upstream origin pr/pic18f452a
 ```
-- Now go head to www.github.com/taherrera/blinkingled or to your forked repo using your browser and github will give you the option to pull request your changes !
+- Check that your changes look OK and now go head to www.github.com/taherrera/blinkingled or to your forked repo using your browser and github will give you the option to pull request your changes !
 
 Thanks for contributing and happy coding !
 
