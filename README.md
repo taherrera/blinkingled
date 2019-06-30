@@ -1,13 +1,5 @@
-# blinkingled
-Blinking led implementations for different platforms for www.blinkingled.xyz
-
-The structure is the following:
-
-microcontrolers/<company>/<board or part name>/<all the necessary files>
-microprocessors/<company>/<board or cpu name>/<all the necessary files>
-FPGAs/<company>/<board or chip name>/<all the necesary files>
-schematics/<appropiate name>/<all the necesary files>
-platforms.html
+# It all starts with a blinking led...
+Blinking led implementations for different platforms for [www.blinkingled.xyz](http://www.blinkingled.xyz)
 
 Feel free to pull request a new implementation. Just add a new device and add it to platforms.html following the structure.
 
