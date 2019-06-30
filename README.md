@@ -7,10 +7,10 @@ Feel free to pull request a new implementation.
 
 There are two ways you can contribute:
 
-1. Add a link to an external tutorial to README.md on target platform: See [PIC16F628A example](microcontrollers/microchip/parts/pic18f628a)
+1. Add a link to an external tutorial to README.md on target platform: See [PIC16F628A example](microcontrollers/microchip/parts/pic16f628a)
 2. Add code or tutorial in this repo for a blinking led implementation.
 
-Note: one device may have external links to tutorials and also code or tutorials on this repo. See [PIC16F628A example](microcontrollers/microchip/parts/pic18f628a)
+Note: one device may have external links to tutorials and also code or tutorials on this repo. See [PIC16F628A example](microcontrollers/microchip/parts/pic16f628a)
 
 **if a link does not exist in platflorms.html Please add the link to this github device path to platforms.html**
 
