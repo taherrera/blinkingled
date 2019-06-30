@@ -23,10 +23,10 @@ cd blinkingled
 git branch pr/pic18f452a
 git checkout pr/pic18f452a
 ```
-...
+
 - Add blinking\_led.c to microcontrollers/microchip/pic16f628a/blinking\_led.c and add to platforms.html the line that links to your work according to the hierarchy: 
-> <li> <a href=href=www.github.com/taherrera/blinkingled/tree/master/microprocessors/microchip/pic16f628a>PIC18F628A</a>
-...
+`<li> <a href=href=www.github.com/taherrera/blinkingled/tree/master/microprocessors/microchip/pic16f628a>PIC18F628A</a>`
+
 - Use the following commands on a terminal
 ```
 git add microcontrollers/microchip/pic16f628a/blinking\_led.c
@@ -37,6 +37,6 @@ git push --set-upstream origin pr/pic18f452a
 ...
 - Now go head to www.github.com/taherrera/blinkingled or to your forked repo using your browser and github will give you the option to pull request your changes !
 
-Happy coding !
+Thanks for contributing and happy coding !
 
 
